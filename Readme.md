@@ -15,6 +15,7 @@ npm install -g typescript
 ```
 
 ##Getting started
+
 Clone the repository
 ```bash
 git clone https://github.com/twitkowski1308/Pelago.git
@@ -26,6 +27,7 @@ npm install
 ```
 
 ##Running the code
+
 Compile the TypeScript code to generate JavaScript:
 ```bash
 tsc recruitmentTask.ts
